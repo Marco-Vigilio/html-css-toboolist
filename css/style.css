@@ -90,3 +90,31 @@ li{
     border: red solid 2px;
     color: red;
 }
+
+.nota{
+    font-size: 10px;
+    text-align: center;
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.violetto-speciale{
+    background-color: rgb(180, 130, 214); 
+}
+
+.verde-speciale{
+    background-color: rgb(71, 178, 108);
+}
+
+.orange-speciale{
+    background-color: orange;
+}
+
+.rosso-speciale{
+    background-color: rgb(206, 105, 147);
+}
+
+.verde-limone-speciale{
+    background-color: rgb(182, 237, 94);
+}
