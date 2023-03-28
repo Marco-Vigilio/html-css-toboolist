@@ -20,16 +20,40 @@ header{
     vertical-align: middle;
 }
 
-h1{
+#titolo{
     display: inline-block;
     vertical-align: middle;
     font-size: 2.5rem;
 }
 
 .contenitore{
-    background-color: magenta;
+    background-color: white;
     width: 1000px;
     margin: 40px auto;
-    padding: 5px 50px;
+    padding: 15px 50px;
     border-radius: 5px;
+}
+
+.bottone{
+    text-align: center;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: rgb(78, 160, 255) solid 2px; 
+}
+
+.blu-speciale{
+    background: rgb(78, 160, 255);
+}
+
+.input{
+    text-align: center;
+    padding: 10px ;
+    border-radius: 5px;
+    border: lightgray solid 2px; 
+}
+
+nav{
+    border-bottom: aliceblue 2px solid;
+    padding: 10px;
 }
